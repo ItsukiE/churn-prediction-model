@@ -1,6 +1,6 @@
 # 📉 Previsão de Churn de Clientes
 
-Este projeto utiliza Machine Learning para prever quais clientes de uma empresa têm maior chance de cancelar o serviço (Churn). O objetivo é gerar uma lista de risco para o time de Marketing agir preventivamente.
+Este projeto utiliza Machine Learning para prever quais clientes de uma empresa têm maior chance de cancelar o serviço (Churn). 
 
 ## 🛠️ Tecnologias Usadas
 * **Python** (Pandas, Numpy, Seaborn)

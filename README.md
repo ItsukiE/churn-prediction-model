@@ -29,4 +29,4 @@ Utilizei um **Random Forest Classifier** ajustado para lidar com o desbalanceame
 3.  Abra o arquivo `churn_ml_model.ipynb` no Jupyter Notebook ou Google Colab.
 
 ---
-Autor: [Eduardo Lúcio]
+Autor: [Eduardo Lúcio](https://www.linkedin.com/in/eduluc/)

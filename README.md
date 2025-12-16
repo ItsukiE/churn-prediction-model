@@ -17,8 +17,8 @@ Utilizei um **Random Forest Classifier** ajustado para lidar com o desbalanceame
 
 | Configuração | Recall (Detectou Churn?) | Precisão (Acertou o Churn?) |
 | :--- | :---: | :---: |
-| Padrão | 63% | 27% |
-| **Ajustado (Threshold 0.3)** | **~95%** | **Baixa** |
+| Padrão | 67% | 38% |
+| **Ajustado (Threshold 0.4)** | **~95%** | **Baixa** |
 
 **Conclusão:** O modelo é ideal para filtrar a base de clientes e enviar campanhas de baixo custo (e-mails, notificações) para o grupo de risco.
 

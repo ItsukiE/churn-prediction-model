@@ -22,11 +22,5 @@ Utilizei um **Random Forest Classifier** ajustado para lidar com o desbalanceame
 
 **Conclusão:** O modelo é ideal para filtrar a base de clientes e enviar campanhas de baixo custo (e-mails, notificações) para o grupo de risco.
 
-## 🚀 Como rodar
-
-1.  Clone o repositório.
-2.  Instale as bibliotecas: `pip install pandas seaborn scikit-learn`
-3.  Abra o arquivo `churn_ml_model.ipynb` no Jupyter Notebook ou Google Colab.
-
 ---
 Autor: [Eduardo Lúcio](https://www.linkedin.com/in/eduluc/)
